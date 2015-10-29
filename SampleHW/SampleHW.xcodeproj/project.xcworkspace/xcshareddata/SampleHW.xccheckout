@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4913D98-63EE-4B45-BA59-50178CEC2846</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleHW</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>278720A5DBC5E44EE8D92B8AD1939130DC76E4AC</key>
+		<string>https://github.com/Hari1011/SampleHW.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleHW/SampleHW.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>278720A5DBC5E44EE8D92B8AD1939130DC76E4AC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Hari1011/SampleHW.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>278720A5DBC5E44EE8D92B8AD1939130DC76E4AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>278720A5DBC5E44EE8D92B8AD1939130DC76E4AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SampleHW</string>
+		</dict>
+	</array>
+</dict>
+</plist>
